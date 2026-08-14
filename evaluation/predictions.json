@@ -1,0 +1,538 @@
+[
+  {
+    "id": 12,
+    "text": "Our Company was originally incorporated as “Bhandary Metal Extrusion Private Limited” under the provisions of the Companies Act, 1956, pursuant to a certificate of incorporation dated July 30, 1979, issued by the Registrar of Companies, Maharashtra at Bombay. Subsequently, the name of our Company was changed from “Bhandary Metal Extrusion Private Limited” to “KSH International Private Limited” pursuant to a resolution dated June 1, 1996 passed by our Board and a resolution dated June 24, 1996 passed by our shareholders, post which a fresh certificate of incorporation dated July 4, 1996 was issued by Registrar of Companies Maharashtra at Mumbai pursuant to change of name under the Companies Act, 1956. Further, pursuant to a special resolution passed by our Shareholders on January 13, 2011 which was confirmed by an order of the regional director dated August 16, 2011, the registered office of our Company was shifted from the jurisdiction of Registrar of Companies, Maharashtra at Mumbai to the jurisdiction of the Registrar of Companies, Maharashtra at Pune, and a certificate of registration of the order of regional director confirming transfer of the registered office within the same state was issued to us on October 13, 2011, by the RoC. On the conversion of our Company from a private limited company to a public limited company, pursuant to a resolution passed by our Board on December 11, 2024 and a special resolution passed by our Shareholders on December 19, 2024, the name of our Company was changed to “KSH International Limited” and a fresh certificate of incorporation was issued by the Registrar of Companies, Central Processing Centre on January 20, 2025. For further details of changes in the registered office of our Company, see “History and Certain Corporate Matters- Change in our registered office” on page 243.",
+    "predictions": [
+      {
+        "label": "COMPANY",
+        "text": "Bhandary Metal Extrusion Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "text": "Bhandary Metal Extrusion Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "text": "KSH International Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "text": "KSH International Limited"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India;",
+    "predictions": [
+      {
+        "label": "ADDRESS",
+        "text": "Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045"
+      },
+      {
+        "label": "ADDRESS",
+        "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "(2) The UPI mandate end time and date shall be at 5:00 p.m. on Bid/Offer Closing Day.",
+    "predictions": []
+  },
+  {
+    "id": 143,
+    "text": "Certain of our KMPs including, Kushal Subbayya Hegde, Rajesh Kushal Hegde, Rohit Kushal Hegde and Rakhi Girija Shetty are also our Executive Directors. Hence, litigation against our Executive Directors have not been included under the heading of KMPs to avoid repetition.",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Subbayya Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "text": "*\tAs certified by Kirtane & Pandit LLP, Chartered Accountants, our Statutory Auditors, by way of their certificate dated December 10, 2025.",
+    "predictions": [
+      {
+        "label": "COMPANY",
+        "text": "Kirtane & Pandit LLP"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "text": "As of the date of this Red Herring Prospectus, we primarily manufacture our products at our four manufacturing facilities, one at Taloja (Raigad), Maharashtra, and two in Chakan (Pune), Maharashtra. Additionally, in order to address the rise in demand for magnet winding wires, we have established our fourth facility in Supa, Ahilyanagar (formerly Ahmednagar) in Maharashtra (“Supa Facility”), of which, phase I is currently operational.",
+    "predictions": []
+  },
+  {
+    "id": 382,
+    "text": "We cannot assure you that we will be able to renew our leases on commercially favourable terms or at all.",
+    "predictions": []
+  },
+  {
+    "id": 400,
+    "text": "We are led by our Individual Promoters Kushal Subbayya Hegde, Pushpa Kushal Hegde, Rajesh Kushal Hegde, Rohit Kushal Hegde and Rakhi Girija Shetty. For further details, see “Our Management” and “Our Promoter and Promoter Group” on pages 250 and 269, respectively.",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Pushpa Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "text": "Registrar of Companies, Maharashtra at Pune",
+    "predictions": []
+  },
+  {
+    "id": 506,
+    "text": "Telephone: +91 22 6807 7100 Email: ksh@icicisecurities.com Website: www.icicisecurities.com Investor grievance E-mail: customercare@icicisecurities.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      },
+      {
+        "label": "EMAIL",
+        "text": "customercare@icicisecurities.com"
+      },
+      {
+        "label": "PHONE",
+        "text": "+91 22 6807 7100"
+      },
+      {
+        "label": "PHONE",
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "text": "Telephone: +91 22 6807 7100 Email: ksh@icicisecurities.com Website: www.icicisecurities.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      },
+      {
+        "label": "PHONE",
+        "text": "+91 22 6807 7100"
+      },
+      {
+        "label": "PHONE",
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "text": "Email: siddharth.jadhav@hdfcbank.com, sachin.gawade@hdfcbank.com eric.bacha@hdfcbank.com, tushar.gavankar@hdfcbank.com, and pravin.teli2@hdfcbank.com Website: www.hdfcbank.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "siddharth.jadhav@hdfcbank.com"
+      },
+      {
+        "label": "EMAIL",
+        "text": "sachin.gawade@hdfcbank.com"
+      },
+      {
+        "label": "EMAIL",
+        "text": "eric.bacha@hdfcbank.com"
+      },
+      {
+        "label": "EMAIL",
+        "text": "tushar.gavankar@hdfcbank.com"
+      },
+      {
+        "label": "EMAIL",
+        "text": "pravin.teli2@hdfcbank.com"
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "Ipocmg@icicibank.com"
+      },
+      {
+        "label": "PHONE",
+        "text": "022-68052182"
+      },
+      {
+        "label": "PERSON",
+        "text": "Marg Backbay Reclamation Churchgate"
+      },
+      {
+        "label": "ADDRESS",
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020"
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "Ipocmg@icicibank.com"
+      },
+      {
+        "label": "PHONE",
+        "text": "022-68052182"
+      },
+      {
+        "label": "PERSON",
+        "text": "Marg Backbay Reclamation Churchgate"
+      },
+      {
+        "label": "ADDRESS",
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020"
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "text": "E-mail: parag.pansare@kirtanepandit.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "parag.pansare@kirtanepandit.com"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "text": "Email: cs.connect@kshinternational.com Telephone: + 91 20 45053237",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "cs.connect@kshinternational.com"
+      },
+      {
+        "label": "PHONE",
+        "text": "+ 91 20 45053237"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "text": "Kushal Subbayya Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Subbayya Hegde"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "text": "Pushpa Kushal Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Pushpa Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "text": "Rajesh Kushal Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "text": "trading in the Equity Shares nor regarding the price at which the Equity Shares will be traded after listing.",
+    "predictions": []
+  },
+  {
+    "id": 869,
+    "text": "or any other person, in this Red Herring Prospectus.",
+    "predictions": []
+  },
+  {
+    "id": 924,
+    "text": "Email: ksh.ipo@nuvama.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "text": "In case of any revision in the Price Band, the Bid/Offer Period will be extended by at least three additional Working Days after such revision in the Price Band.",
+    "predictions": []
+  },
+  {
+    "id": 1163,
+    "text": "E-mail: ksh.ipo@nuvama.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      }
+    ]
+  },
+  {
+    "id": 1205,
+    "text": "Investor grievance email: customercare@icicisecurities.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "customercare@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "id": 1221,
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "predictions": [
+      {
+        "label": "EMAIL",
+        "text": "kshinternational.ipo@in.mpms.mufg.com"
+      }
+    ]
+  },
+  {
+    "id": 1268,
+    "text": "The chairman and executive director of our Company, being Kushal Subbayya Hegde. For further details, see “Our Management – Board of Directors” on page 250",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Subbayya Hegde"
+      }
+    ]
+  },
+  {
+    "id": 1290,
+    "text": "The employee stock option plan of our Company titled, ‘KSH Employee Stock Option Scheme 2025’ approved by our Board and Shareholders each in their meeting May 6, 2025",
+    "predictions": []
+  },
+  {
+    "id": 1328,
+    "text": "Kushal Subbayya Hegde, Pushpa Kushal Hegde, Rajesh Kushal Hegde, Rohit Kushal Hegde and Rakhi Girija Shetty, Dhaulagiri Family Trust, Everest Family Trust, Makalu Family Trust, Broad",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Subbayya Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Pushpa Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 1504,
+    "text": "Accounts opened with the Escrow Collection Bank and in whose favour Anchor Investors will transfer the money through direct credit/NEFT/RTGS/NACH in respect of the Bid Amount while submitting a Bid",
+    "predictions": []
+  },
+  {
+    "id": 1653,
+    "text": "The agreement among the Underwriters, the Promoter Selling Shareholders and our Company to be entered into on or after the Pricing Date, but prior to filing of the Prospectus with the RoC",
+    "predictions": []
+  },
+  {
+    "id": 2175,
+    "text": "Rajesh Kushal Hegde*",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2239,
+    "text": "Maithili Rajesh Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2313,
+    "text": "At the upper end of the price band (₹[●])",
+    "predictions": []
+  },
+  {
+    "id": 2333,
+    "text": "Rajesh\tKushal Hegde*",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2408,
+    "text": "Maithili\tRajesh Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2688,
+    "text": "A significant portion of our revenue from operations i.e. 71.73%, 74.79%, 75.17% and 79.08% of our operating revenue for the three-month period ended June 30, 2025 and Fiscals 2025, 2024 and 2023, respectively is attributable to the power sector.",
+    "predictions": []
+  },
+  {
+    "id": 2857,
+    "text": "Rajesh Kushal Hegde*",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2912,
+    "text": "Rohit Kushal Hegde*",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 2961,
+    "text": "Rohit Kushal Hegde*^&",
+    "predictions": []
+  },
+  {
+    "id": 3011,
+    "text": "Maithili Rajesh Hegde&",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Hegde"
+      }
+    ]
+  },
+  {
+    "id": 3044,
+    "text": "Kushal Subbayya Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Kushal Subbayya Hegde"
+      }
+    ]
+  },
+  {
+    "id": 3773,
+    "text": "Form 7B for transfer of shares to Rohit Hegde from Karunakar Hegde HUF.",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rohit Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Karunakar Hegde HUF"
+      }
+    ]
+  },
+  {
+    "id": 3788,
+    "text": "Form 7B for transfer of shares to Rohit Hegde by Vijay Hegde.",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rohit Hegde"
+      },
+      {
+        "label": "PERSON",
+        "text": "Vijay Hegde"
+      }
+    ]
+  },
+  {
+    "id": 3874,
+    "text": "Promoters (including the Executive Directors who are also our Promoters)",
+    "predictions": []
+  },
+  {
+    "id": 3916,
+    "text": "Senior Management (“SM”) (excluding our KMPs)(2)",
+    "predictions": []
+  },
+  {
+    "id": 4483,
+    "text": "Pushpa Kushal Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Pushpa Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 4488,
+    "text": "Rajesh Kushal Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 4505,
+    "text": "Rajesh Kushal Hegde",
+    "predictions": [
+      {
+        "label": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": 4626,
+    "text": "Indicative Number of Equity Shares of face value of ₹5 each to be Underwritten",
+    "predictions": []
+  }
+]
